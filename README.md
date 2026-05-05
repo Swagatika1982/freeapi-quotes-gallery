@@ -19,11 +19,26 @@ CSS
 JavaScript (Fetch API)
 
 
-How to Run
-Download or clone the project
-Open the folder in VS Code
-Right-click index.html
-Open with Live Server
+Project Structure
+quotes-gallery/
+│
+├── index.html      # Main HTML file
+├── style.css       # Styling
+└── script.js       # Fetch + DOM logic
+
+ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/your-username/quotes-gallery.git
+
+Navigate to project folder:
+
+cd quotes-gallery
+Run the project:
+Open index.html in browser
+OR
+Use VS Code Live Server
 
 Screenshot
 <img width="2551" height="1233" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/4502269c-a291-464b-ab95-4b5e6e95e6fe" />
