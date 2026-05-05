@@ -24,12 +24,6 @@ Download or clone the project
 Open the folder in VS Code
 Right-click index.html
 Open with Live Server
-Project Structure
-
-freeapi-quotes-gallery/
-  -index.html
-  -style.css
-  -script.js
 
 Screenshot
 <img width="2551" height="1233" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/4502269c-a291-464b-ab95-4b5e6e95e6fe" />
