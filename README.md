@@ -30,7 +30,7 @@ quotes-gallery/
 
 Clone the repository:
 
-git clone https://github.com/your-username/quotes-gallery.git
+git clone https://github.com/Swagatika1982/freeapi-quotes-gallery.git
 
 Navigate to project folder:
 
