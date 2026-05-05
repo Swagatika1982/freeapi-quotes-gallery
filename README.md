@@ -7,12 +7,18 @@ Fetch quotes from API
 Display quotes in a clean card layout
 Responsive design
 Error handling for failed API calls
+
+
 API Used
 https://api.freeapi.app/api/v1/public/quotes
+
+
 Tech Stack
 HTML
 CSS
 JavaScript (Fetch API)
+
+
 How to Run
 Download or clone the project
 Open the folder in VS Code
@@ -23,8 +29,12 @@ quotes-gallery/
 ├── index.html
 ├── style.css
 └── script.js
-Screenshot
 
-(Add your screenshot here after running the app)
+Screenshot
+<img width="2551" height="1233" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/4502269c-a291-464b-ab95-4b5e6e95e6fe" />
+
+
+
+ 
 
  
